@@ -141,9 +141,17 @@
     "Strangest sign you've seen beside the road."
     "Stupidest and yet most fun thing you've done in the rain."
     "The most fun you've had in a river"
-    ""
-
-    ""
+    "What is the best gift you've ever gotten?"
+    "What is the most useful gift you've ever gotten?"
+    "What's the most memorable family reunion you've been to?"
+    "How do you recall family vacations?"
+    "What's one thing that somebody close to you does that you used to be annoyed by, but now recognize is done out of love, even if that's not how you instinctively receive it?"
+    "What terrible movie/tv show do you unabashedly love?"
+    "What scenes from movies, or lines from songs, or passages of poetry, have really stuck with you?"
+    "What's some of the most memorable imagery that's impacted your soul?"
+    "What are some of your favorite exhibitions at museums?"
+    "What's your favorite thing to buy at a sporting event?"
+    "If you had the opportunity to go live in Antarctica for a year, would you?"
   ],
   'ridiculousSituations': ["Otherwise known as 'what would you do if...'",
     "Who would you most like to share a winning lottery ticket with? \n Ok, let's make this more interesting: Same lottery ticket, same person you're sharing it with. Imagine what you would do if it's for $5. Keep going up by two orders of magnitude each time: $5, $500, $50,000, $5 million, $500 million, and finally, $5 billion.",
@@ -162,13 +170,43 @@
     "Imagine you're the founder and controlling owner of any business of your choosing. What business is it? What business partners do you have? Who would you most want advising you/sitting on your board?"
     "You get 27.5 hours to be in charge of and fly any aircraft ever designed. What do you do?"
     "You're given a room with 10 people in it that you're attracted to. You're told that 1 of them is a super ideal mate for you, 3 of them are alright matches you'll be just happy enough with to be vaguely satisfied for the rest of your life, 4 of them you'll be ok with for a couple years before divorcing, and 2 of them will lead to bitter splits and anger. You are allowed to design a single game (with no constraints on it) to play with each match. How do you approach the situation, and what game do you design? \nOk, how does all this change if each of your matches is also told all this same starting information (there are 10 of them and 1 of you, breakdown of outcomes, etc.), and they are also allowed to design a game to play with you? In this second part of the question, the matches are not bound to the game and can wander away to their normal lives anytime they would like."
+    "You've just been handed total control of the largest arms manufacturers in the world (think Lockheed Martin + Northrop Grumman combined). Keep in mind the breadth of your company's operations (the obvious- creating highly advanced and efficient weapons systems that are used in wars and intimidation the world over, to basic research that now propels the domestic aviation industry, to building rocket ships that take GPS satellites to space that we all rely on so heavily every day), as well as all the heavily entrenched interests and inertia in those places. What do you do?"
+    "If you were given all the time in the world, with the stipulation that you must spend the rest of your life playing a single video game for at least 40 hours a week, what do you do?"
+    "What would the world be like if there were only female rulers throughout all of history?"
+    "Pick a celebrity. You get to control all their social media accounts for a day. What do you do?"
+    "Pick a state. You now have to make 3 rules that everyone in that state must follow for the next year. What do you do? Does your answer change if you assume that 49 other empresses/emperors have been given the same authority over the other 49 states?"
+    "If you had to pick one ingredient that was included in every single meal you eat for the rest of your life, what would it be?"
+    "You are put in charge of a space mission taking humans to outer space. You are given a budget of up to $17,000,000,000,000 (seventeen trillion dollars- to give you a sense of scale, that's equal to the entire collected output of the US for a year) to fund it. Where do you go, what supplies do you bring, how many people, and what's your plan?"
+    "If you were given $17,000,000,000,000 (seventeen trillion dollars- to give you a sense of scale, that's equal to the entire collected output of the US for a year), what would you do with it?"
+    "If you could make all schoolchildren read/view/listen/etc. to a single book/movie/song/etc., what would it be?"
+    "Several countries in the world still have compulsory military service (Korea, Israel, Switzerland, among others). Several cultures have strong traditions of service within their religion for a period of time (Mormons among them). Say our country decided today that we wanted to implement compulsory service for all citizens, and put you in charge of figuring out what that meant. How would you design this service, and what would your goals be?"
+    "If you had the ability to remove one thing from the world, along with all knowledge related to it and any memories of it ever existing, what would it be?"
+    "If you could create a museum of anything, what would it be of?"
+    "You are getting married to your dream person. Congrats! The only wrinkle is, you are told that you must conduct the wedding according to the customs and traditions of a culture other than your own. So if Christian, you might choose to hold a Jewish ceremony. If American, you might choose to hold a traditional Nigerian ceremony. What culture do you choose?"
+    "Your sibling brings home a person they're somewhat newly in a relationship with, but think might be their long-term partner. You are allowed to vet them in any way/situation you would like. How do you do this?"
+    "Congratulations, you are now a participant on a game show! For the next year, the papparazzi will follow your every move. And each week, at least one of the major news organizations has agreed to publish one of their photos in a big, front-page way. But then all the papparazzi disappear at the end of that year. What do you do for the next year?"
+    "If you could design a game show, what would it be?"
+    "You are told that you must create all of the content for an exhibition at a major museum of your choice. What do you do?"
+    "You've been given the power to have the robots take over one thing for the entire world tomorrow. What is it?"
+    "You've just been forced to take over a youth sports team. What sport is it, and how do you coach them?"
+    "You've just been told to reimagine PE class. What does Phys. Ed look like in your world?"
+    "You are allowed to revive one species of animal. Which one?"
+    "You are sentenced to stay in one location for the rest of your life. Define location any way you would like. What location?"
+    "If you could instantly dissolve an entire sport and all it's associated little leagues and professional leagues, would you, and if so, what sport?"
+    "What ridiculous sport would you make up for the winter olympics? What about the summer olympics?"
+    "You are given a voucher good for unlimited air travel for the rest of your life. You have the added perk of a free companion seat on every single one of these flights. The rest of your life remains the same. What do you do?"
+    "You are given one vehicle of your choice, along with unlimited lifetime maintenance on it. But, you must use this in your daily commute > 80% of the time. What vehicle do you choose?"
+    
+    ""
   ],
   'imaginedFutures': [],
   'imaginativeGiftCertificates': [
     // Note, all of these are prefaced by "You are given a gift certificate for...". Please place your own constraints on the problem :)
     "You are given a gift certicate for one custom-made statue of any shape/size/material/subject. What is it, and where do you place it?",
     "One pet. Real or imagined. No practical constraints (for example, your landlord is totally cool with you housing a hippogriff in your tiny studio, and you don't need to worry about coming home to walk it or anything'"
-
+    "One building of your choice, and the land of your choice to place the building on."
+    "One poem of your choice. Who would you ask to write it?"
+    "One piece of property of your choice, along with all the associated rights and buildings on it. Note that this must be a direct asset transfer between one individual/organization/company to you- you cannot claim something like the whole US because that is not owned by a single entity."
   ],
   'fearsAndHopesAndDreamsAndPhilosophies': [
     "What are you most scared of?"
@@ -185,6 +223,13 @@
     "What's a promise you've made and broken?"
     "If you could do it all over again, what would you do differently?"
     "Which do you fear more- wishing you had not done something, or wishing that you had?"
+    "Some religions believe in reincarnation. If you had control over them, how would you choose to arrange 7 lives?"
+    "What is the greatest gift you can imagine giving? Now imagine there are no constraints. Does your answer change?"
+    "What is the greatest gift you can imagine receiving?"
+    "For you, when is ignorance bliss? For inspiration, feel free to think back to Men In Black."
+    "Do you think that life exists elsewhere in the universe other than on Earth?"
+    "Do you think that intelligent life exists in the universe other than on Earth?"
+    "If intelligent life exists elsewhere in the unvierse, do you think it would be a good idea to try to say hi to them?"
     ""
   ],
   'friends': [
